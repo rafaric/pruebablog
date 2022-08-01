@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-huqr1nke%wo771t^sgxmg^gyz6@+tk0c^j-j4pu)shmacz)&5i
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'g3blog.settings.develop'
+    'g3blog.settings.develop',
 ]
 
 
